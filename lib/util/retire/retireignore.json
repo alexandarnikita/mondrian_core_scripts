@@ -1,0 +1,6 @@
+[
+    {
+        "component": "jquery",
+        "justification" : "We dont use jQuery in production"
+    }
+]
